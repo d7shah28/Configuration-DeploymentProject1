@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Enemy.cpp
+  Generating Code...
+     Creating library C:\Users\d7sha\Desktop\C++\Assignments\Configuration&Deployment\GoogleTest\x64\Debug\EnemyLib.lib and object C:\Users\d7sha\Desktop\C++\Assignments\Configuration&Deployment\GoogleTest\x64\Debug\EnemyLib.exp
+  EnemyLib.vcxproj -> C:\Users\d7sha\Desktop\C++\Assignments\Configuration&Deployment\GoogleTest\x64\Debug\EnemyLib.dll

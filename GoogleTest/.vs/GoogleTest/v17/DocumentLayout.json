@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9CA7C4-789B-4B9B-8AB2-8C3990B55C55}|GoogleTest.vcxproj|C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\PlayerTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A9CA7C4-789B-4B9B-8AB2-8C3990B55C55}|GoogleTest.vcxproj|solutionrelative:PlayerTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9CA7C4-789B-4B9B-8AB2-8C3990B55C55}|GoogleTest.vcxproj|C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\EnemyTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A9CA7C4-789B-4B9B-8AB2-8C3990B55C55}|GoogleTest.vcxproj|solutionrelative:EnemyTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9CA7C4-789B-4B9B-8AB2-8C3990B55C55}|GoogleTest.vcxproj|C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\IntegrationTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A9CA7C4-789B-4B9B-8AB2-8C3990B55C55}|GoogleTest.vcxproj|solutionrelative:IntegrationTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D4F595-3CA7-44BF-B68A-1FF067AF7BF4}|EnemyLib\\EnemyLib.vcxproj|C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\EnemyLib\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2D4F595-3CA7-44BF-B68A-1FF067AF7BF4}|EnemyLib\\EnemyLib.vcxproj|solutionrelative:EnemyLib\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB068A62-6DE0-4E4C-BAD5-7845352625CD}|PlayerLib\\PlayerLib.vcxproj|C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\PlayerLib\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB068A62-6DE0-4E4C-BAD5-7845352625CD}|PlayerLib\\PlayerLib.vcxproj|solutionrelative:PlayerLib\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB068A62-6DE0-4E4C-BAD5-7845352625CD}|PlayerLib\\PlayerLib.vcxproj|C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\PlayerLib\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB068A62-6DE0-4E4C-BAD5-7845352625CD}|PlayerLib\\PlayerLib.vcxproj|solutionrelative:PlayerLib\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB068A62-6DE0-4E4C-BAD5-7845352625CD}|PlayerLib\\PlayerLib.vcxproj|C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\PlayerLib\\PlayerLib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB068A62-6DE0-4E4C-BAD5-7845352625CD}|PlayerLib\\PlayerLib.vcxproj|solutionrelative:PlayerLib\\PlayerLib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D4F595-3CA7-44BF-B68A-1FF067AF7BF4}|EnemyLib\\EnemyLib.vcxproj|C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\EnemyLib\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2D4F595-3CA7-44BF-B68A-1FF067AF7BF4}|EnemyLib\\EnemyLib.vcxproj|solutionrelative:EnemyLib\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D4F595-3CA7-44BF-B68A-1FF067AF7BF4}|EnemyLib\\EnemyLib.vcxproj|C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\EnemyLib\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2D4F595-3CA7-44BF-B68A-1FF067AF7BF4}|EnemyLib\\EnemyLib.vcxproj|solutionrelative:EnemyLib\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D4F595-3CA7-44BF-B68A-1FF067AF7BF4}|EnemyLib\\EnemyLib.vcxproj|C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\EnemyLib\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2D4F595-3CA7-44BF-B68A-1FF067AF7BF4}|EnemyLib\\EnemyLib.vcxproj|solutionrelative:EnemyLib\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D4F595-3CA7-44BF-B68A-1FF067AF7BF4}|EnemyLib\\EnemyLib.vcxproj|C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\EnemyLib\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2D4F595-3CA7-44BF-B68A-1FF067AF7BF4}|EnemyLib\\EnemyLib.vcxproj|solutionrelative:EnemyLib\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D4F595-3CA7-44BF-B68A-1FF067AF7BF4}|EnemyLib\\EnemyLib.vcxproj|C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\EnemyLib\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2D4F595-3CA7-44BF-B68A-1FF067AF7BF4}|EnemyLib\\EnemyLib.vcxproj|solutionrelative:EnemyLib\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IntegrationTest.cpp",
+              "DocumentMoniker": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\IntegrationTest.cpp",
+              "RelativeDocumentMoniker": "IntegrationTest.cpp",
+              "ToolTip": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\IntegrationTest.cpp",
+              "RelativeToolTip": "IntegrationTest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswCoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T23:56:18.057Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyTest.cpp",
+              "DocumentMoniker": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\EnemyTest.cpp",
+              "RelativeDocumentMoniker": "EnemyTest.cpp",
+              "ToolTip": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\EnemyTest.cpp",
+              "RelativeToolTip": "EnemyTest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T23:56:19.526Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerTest.cpp",
+              "DocumentMoniker": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\PlayerTest.cpp",
+              "RelativeDocumentMoniker": "PlayerTest.cpp",
+              "ToolTip": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\PlayerTest.cpp",
+              "RelativeToolTip": "PlayerTest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-04T02:40:48.874Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\EnemyLib\\pch.h",
+              "RelativeDocumentMoniker": "EnemyLib\\pch.h",
+              "ToolTip": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\EnemyLib\\pch.h",
+              "RelativeToolTip": "EnemyLib\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-04T00:42:45.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "framework.h",
+              "DocumentMoniker": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\EnemyLib\\framework.h",
+              "RelativeDocumentMoniker": "EnemyLib\\framework.h",
+              "ToolTip": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\EnemyLib\\framework.h",
+              "RelativeToolTip": "EnemyLib\\framework.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-03T23:56:31.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\EnemyLib\\Enemy.h",
+              "RelativeDocumentMoniker": "EnemyLib\\Enemy.h",
+              "ToolTip": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\EnemyLib\\Enemy.h",
+              "RelativeToolTip": "EnemyLib\\Enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-03T23:56:30.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\EnemyLib\\dllmain.cpp",
+              "RelativeDocumentMoniker": "EnemyLib\\dllmain.cpp",
+              "ToolTip": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\EnemyLib\\dllmain.cpp",
+              "RelativeToolTip": "EnemyLib\\dllmain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T23:56:24.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\EnemyLib\\Enemy.cpp",
+              "RelativeDocumentMoniker": "EnemyLib\\Enemy.cpp",
+              "ToolTip": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\EnemyLib\\Enemy.cpp",
+              "RelativeToolTip": "EnemyLib\\Enemy.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T23:56:23.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\EnemyLib\\pch.cpp",
+              "RelativeDocumentMoniker": "EnemyLib\\pch.cpp",
+              "ToolTip": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\EnemyLib\\pch.cpp",
+              "RelativeToolTip": "EnemyLib\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T23:56:22.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\PlayerLib\\Player.h",
+              "RelativeDocumentMoniker": "PlayerLib\\Player.h",
+              "ToolTip": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\PlayerLib\\Player.h",
+              "RelativeToolTip": "PlayerLib\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-03T23:56:05.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\PlayerLib\\Player.cpp",
+              "RelativeDocumentMoniker": "PlayerLib\\Player.cpp",
+              "ToolTip": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\PlayerLib\\Player.cpp",
+              "RelativeToolTip": "PlayerLib\\Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T23:56:01.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerLib.cpp",
+              "DocumentMoniker": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\PlayerLib\\PlayerLib.cpp",
+              "RelativeDocumentMoniker": "PlayerLib\\PlayerLib.cpp",
+              "ToolTip": "C:\\Users\\d7sha\\Desktop\\C\u002B\u002B\\Assignments\\Configuration\u0026Deployment\\GoogleTest\\PlayerLib\\PlayerLib.cpp",
+              "RelativeToolTip": "PlayerLib\\PlayerLib.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T23:56:00.789Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
